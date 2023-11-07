@@ -1,2 +1,2 @@
 # Lowfpy
-The tool for generate what you want, from wordlists to passwords and pseudo.
+The tool for generate what you want, from wordlists to passwords and pseudos.
